@@ -1,3 +1,3 @@
 repoGF2
 
-asdasda    //RELEASE NOTES
+asda   //RELEASE NOTES
